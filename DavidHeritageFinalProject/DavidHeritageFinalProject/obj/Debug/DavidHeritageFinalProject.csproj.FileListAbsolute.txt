@@ -1,0 +1,17 @@
+C:\Users\David\source\repos\DavidHeritageFinalProject\DavidHeritageFinalProject\obj\Debug\DavidHeritageFinalProject.csprojAssemblyReference.cache
+C:\Users\David\source\repos\DavidHeritageFinalProject\DavidHeritageFinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\David\source\repos\DavidHeritageFinalProject\DavidHeritageFinalProject\obj\Debug\Result.g.cs
+C:\Users\David\source\repos\DavidHeritageFinalProject\DavidHeritageFinalProject\obj\Debug\App.g.cs
+C:\Users\David\source\repos\DavidHeritageFinalProject\DavidHeritageFinalProject\obj\Debug\DavidHeritageFinalProject_MarkupCompile.cache
+C:\Users\David\source\repos\DavidHeritageFinalProject\DavidHeritageFinalProject\obj\Debug\DavidHeritageFinalProject_MarkupCompile.lref
+C:\Users\David\source\repos\DavidHeritageFinalProject\DavidHeritageFinalProject\bin\Debug\DavidHeritageFinalProject.exe.config
+C:\Users\David\source\repos\DavidHeritageFinalProject\DavidHeritageFinalProject\bin\Debug\DavidHeritageFinalProject.exe
+C:\Users\David\source\repos\DavidHeritageFinalProject\DavidHeritageFinalProject\bin\Debug\DavidHeritageFinalProject.pdb
+C:\Users\David\source\repos\DavidHeritageFinalProject\DavidHeritageFinalProject\obj\Debug\MainWindow.baml
+C:\Users\David\source\repos\DavidHeritageFinalProject\DavidHeritageFinalProject\obj\Debug\Result.baml
+C:\Users\David\source\repos\DavidHeritageFinalProject\DavidHeritageFinalProject\obj\Debug\DavidHeritageFinalProject.g.resources
+C:\Users\David\source\repos\DavidHeritageFinalProject\DavidHeritageFinalProject\obj\Debug\DavidHeritageFinalProject.Properties.Resources.resources
+C:\Users\David\source\repos\DavidHeritageFinalProject\DavidHeritageFinalProject\obj\Debug\DavidHeritageFinalProject.csproj.GenerateResource.cache
+C:\Users\David\source\repos\DavidHeritageFinalProject\DavidHeritageFinalProject\obj\Debug\DavidHeritageFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\DavidHeritageFinalProject\DavidHeritageFinalProject\obj\Debug\DavidHeritageFinalProject.exe
+C:\Users\David\source\repos\DavidHeritageFinalProject\DavidHeritageFinalProject\obj\Debug\DavidHeritageFinalProject.pdb
